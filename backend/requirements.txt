@@ -1,0 +1,9 @@
+flask
+flask-cors
+torch
+transformers
+captum
+numpy
+requests
+dnspython
+Flask-SQLAlchemy

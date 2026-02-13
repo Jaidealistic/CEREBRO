@@ -1,0 +1,23 @@
+Loading model from C:\Users\jaisu\Projects\BNY\url...
+
+--- Raw Logits Analysis ---
+URL: http://google.com
+Logits: [[ 5.3422446 -6.9189177]]
+Probs: [[9.9999523e-01 4.7319809e-06]]
+Predicted Index: 0
+--------------------
+URL: https://www.bnymellon.com
+Logits: [[-3.4950788  3.6934922]]
+Probs: [[7.5459766e-04 9.9924541e-01]]
+Predicted Index: 1
+--------------------
+URL: http://suspicious-site.com/login
+Logits: [[ 5.3480506 -6.9272127]]
+Probs: [[9.9999535e-01 4.6657242e-06]]
+Predicted Index: 0
+--------------------
+URL: http://paypal-verification-secure.com
+Logits: [[ 5.3374677 -6.9122753]]
+Probs: [[9.9999523e-01 4.7863268e-06]]
+Predicted Index: 0
+--------------------
