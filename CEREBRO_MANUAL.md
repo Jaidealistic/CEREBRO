@@ -1,6 +1,6 @@
 # CEREBRO: Enterprise Security Intelligence Platform
 
-**CEREBRO** is a next-generation security operations platform designed to augment SOC analysts with real-time AI-driven threat detection. It unifies email analysis, URL reputation checking, and global threat intelligence into a single, cohesive interface.
+**CEREBRO** is a security operations platform designed to augment SOC analysts with real-time AI-driven threat detection. It unifies email analysis, URL reputation checking, and global threat intelligence into a single, cohesive interface.
 
 ---
 
